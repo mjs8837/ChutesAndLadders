@@ -1,0 +1,4 @@
+﻿  Setup.cpp
+C:\Users\Michael Santos\source\repos\chutesandladders\ChutesAndLadders\ChutesAndLadders\Setup.cpp(53,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Michael Santos\source\repos\chutesandladders\ChutesAndLadders\ChutesAndLadders\Setup.cpp(83,20): warning C4018: '<': signed/unsigned mismatch
+  ChutesAndLadders.vcxproj -> C:\Users\Michael Santos\source\repos\chutesandladders\ChutesAndLadders\Debug\ChutesAndLadders.exe
